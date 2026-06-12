@@ -3,10 +3,10 @@
 [![Kali Linux](https://img.shields.io/badge/Kali_Linux-Cyber_Security-557C94?logo=kalilinux&logoColor=white)](https://www.kali.org)
 [![Penetration Tester](https://img.shields.io/badge/Penetration_Tester-E53935?logo=hackaday&logoColor=white)](#)
 [![Security Researcher](https://img.shields.io/badge/Security_Researcher-1E88E5?logo=securityscorecard&logoColor=white)](#)
-[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-00C853?logo=protonvpn&logoColor=white)](#)
+[![Ethical Hacking](https://img.shields.io/badge/Ethical_Hacking-FFA500?logo=protonvpn&logoColor=white)](#)
 [![Networking](https://img.shields.io/badge/Networking-00ACC1?logo=cisco&logoColor=white)](#)
 [![Terminal Commands](https://img.shields.io/badge/Terminal_Commands-2D3748?logo=linux&logoColor=white)](#)
-[![Shell Bash](https://img.shields.io/badge/Shell-Bash-43A047?logo=gnubash&logoColor=white)](#)
+[![Shell Bash](https://img.shields.io/badge/Shell-Bash-00C853?logo=gnubash&logoColor=white)](#)
 
 ## [⁠Kali Linux](https://www.kali.org/) is a Debian-based Linux distribution designed for `digital forensics` and `penetration testing`. Originally released in 2006 as `BackTrack`, the platform was completely rebuilt from scratch and debuted as `Kali Linux` on March 13, 2013. Later in 2016, it officially transitioned into a continuous rolling release model. It is actively maintained and funded by [⁠Offensive Security](https://www.offsec.com/).
 
